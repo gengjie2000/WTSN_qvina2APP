@@ -1,0 +1,21 @@
+"Ligand","Original_File","Energy","Success","Processed_File","Config_File","Output_File","Log_File","Message","Timestamp"
+"1628","1628.pdb",-6.3,TRUE,"E:/TEXT2/ligands/1628.pdbqt","E:/TEXT2/configs/1628_config.txt","E:/TEXT2/results/1628_docked.pdbqt","E:/TEXT2/logs/1628.txt","成功: 结合能 -6.3 kcal/mol",2025-12-29 10:40:25.630661
+"1629","1629.pdb",-4.7,TRUE,"E:/TEXT2/ligands/1629.pdbqt","E:/TEXT2/configs/1629_config.txt","E:/TEXT2/results/1629_docked.pdbqt","E:/TEXT2/logs/1629.txt","成功: 结合能 -4.7 kcal/mol",2025-12-29 10:40:29.121669
+"1633","1633.pdb",-6.9,TRUE,"E:/TEXT2/ligands/1633.pdbqt","E:/TEXT2/configs/1633_config.txt","E:/TEXT2/results/1633_docked.pdbqt","E:/TEXT2/logs/1633.txt","成功: 结合能 -6.9 kcal/mol",2025-12-29 10:40:32.872013
+"1646","1646.pdb",-3.4,TRUE,"E:/TEXT2/ligands/1646.pdbqt","E:/TEXT2/configs/1646_config.txt","E:/TEXT2/results/1646_docked.pdbqt","E:/TEXT2/logs/1646.txt","成功: 结合能 -3.4 kcal/mol",2025-12-29 10:40:35.182502
+"1649","1649.pdb",-5,TRUE,"E:/TEXT2/ligands/1649.pdbqt","E:/TEXT2/configs/1649_config.txt","E:/TEXT2/results/1649_docked.pdbqt","E:/TEXT2/logs/1649.txt","成功: 结合能 -5 kcal/mol",2025-12-29 10:40:37.301465
+"1662","1662.pdb",-4.4,TRUE,"E:/TEXT2/ligands/1662.pdbqt","E:/TEXT2/configs/1662_config.txt","E:/TEXT2/results/1662_docked.pdbqt","E:/TEXT2/logs/1662.txt","成功: 结合能 -4.4 kcal/mol",2025-12-29 10:40:40.115713
+"1667","1667.pdb",-4.7,TRUE,"E:/TEXT2/ligands/1667.pdbqt","E:/TEXT2/configs/1667_config.txt","E:/TEXT2/results/1667_docked.pdbqt","E:/TEXT2/logs/1667.txt","成功: 结合能 -4.7 kcal/mol",2025-12-29 10:40:44.348646
+"1673","1673.pdb",-4.4,TRUE,"E:/TEXT2/ligands/1673.pdbqt","E:/TEXT2/configs/1673_config.txt","E:/TEXT2/results/1673_docked.pdbqt","E:/TEXT2/logs/1673.txt","成功: 结合能 -4.4 kcal/mol",2025-12-29 10:40:46.539915
+"1676","1676.pdb",-5.1,TRUE,"E:/TEXT2/ligands/1676.pdbqt","E:/TEXT2/configs/1676_config.txt","E:/TEXT2/results/1676_docked.pdbqt","E:/TEXT2/logs/1676.txt","成功: 结合能 -5.1 kcal/mol",2025-12-29 10:40:49.286519
+"1682","1682.pdb",-3.7,TRUE,"E:/TEXT2/ligands/1682.pdbqt","E:/TEXT2/configs/1682_config.txt","E:/TEXT2/results/1682_docked.pdbqt","E:/TEXT2/logs/1682.txt","成功: 结合能 -3.7 kcal/mol",2025-12-29 10:40:52.428697
+"1684","1684.pdb",-6.2,TRUE,"E:/TEXT2/ligands/1684.pdbqt","E:/TEXT2/configs/1684_config.txt","E:/TEXT2/results/1684_docked.pdbqt","E:/TEXT2/logs/1684.txt","成功: 结合能 -6.2 kcal/mol",2025-12-29 10:40:59.014695
+"1694","1694.pdb",-4.4,TRUE,"E:/TEXT2/ligands/1694.pdbqt","E:/TEXT2/configs/1694_config.txt","E:/TEXT2/results/1694_docked.pdbqt","E:/TEXT2/logs/1694.txt","成功: 结合能 -4.4 kcal/mol",2025-12-29 10:41:00.615524
+"1698","1698.pdb",-4.1,TRUE,"E:/TEXT2/ligands/1698.pdbqt","E:/TEXT2/configs/1698_config.txt","E:/TEXT2/results/1698_docked.pdbqt","E:/TEXT2/logs/1698.txt","成功: 结合能 -4.1 kcal/mol",2025-12-29 10:41:06.85917
+"1700","1700.pdb",-6.2,TRUE,"E:/TEXT2/ligands/1700.pdbqt","E:/TEXT2/configs/1700_config.txt","E:/TEXT2/results/1700_docked.pdbqt","E:/TEXT2/logs/1700.txt","成功: 结合能 -6.2 kcal/mol",2025-12-29 10:41:12.564975
+"1701","1701.pdb",-4.7,TRUE,"E:/TEXT2/ligands/1701.pdbqt","E:/TEXT2/configs/1701_config.txt","E:/TEXT2/results/1701_docked.pdbqt","E:/TEXT2/logs/1701.txt","成功: 结合能 -4.7 kcal/mol",2025-12-29 10:41:15.748032
+"1708","1708.pdb",-5.4,TRUE,"E:/TEXT2/ligands/1708.pdbqt","E:/TEXT2/configs/1708_config.txt","E:/TEXT2/results/1708_docked.pdbqt","E:/TEXT2/logs/1708.txt","成功: 结合能 -5.4 kcal/mol",2025-12-29 10:41:20.993616
+"1712","1712.pdb",-7.3,TRUE,"E:/TEXT2/ligands/1712.pdbqt","E:/TEXT2/configs/1712_config.txt","E:/TEXT2/results/1712_docked.pdbqt","E:/TEXT2/logs/1712.txt","成功: 结合能 -7.3 kcal/mol",2025-12-29 10:41:28.785954
+"1714","1714.pdb",-5.9,TRUE,"E:/TEXT2/ligands/1714.pdbqt","E:/TEXT2/configs/1714_config.txt","E:/TEXT2/results/1714_docked.pdbqt","E:/TEXT2/logs/1714.txt","成功: 结合能 -5.9 kcal/mol",2025-12-29 10:41:34.243851
+"1715","1715.pdb",-6.5,TRUE,"E:/TEXT2/ligands/1715.pdbqt","E:/TEXT2/configs/1715_config.txt","E:/TEXT2/results/1715_docked.pdbqt","E:/TEXT2/logs/1715.txt","成功: 结合能 -6.5 kcal/mol",2025-12-29 10:41:40.932755
+"1720","1720.pdb",-5.5,TRUE,"E:/TEXT2/ligands/1720.pdbqt","E:/TEXT2/configs/1720_config.txt","E:/TEXT2/results/1720_docked.pdbqt","E:/TEXT2/logs/1720.txt","成功: 结合能 -5.5 kcal/mol",2025-12-29 10:41:43.225835
